@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelTDD", "TravelTDD\TravelTDD.csproj", "{C7DEB732-9F6D-41EA-86FE-75BE51B84800}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelTDD.Test", "TravelTDD.Test\TravelTDD.Test.csproj", "{0312B1CC-366B-4E98-AA91-48C320F15FEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7DEB732-9F6D-41EA-86FE-75BE51B84800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7DEB732-9F6D-41EA-86FE-75BE51B84800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7DEB732-9F6D-41EA-86FE-75BE51B84800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7DEB732-9F6D-41EA-86FE-75BE51B84800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0312B1CC-366B-4E98-AA91-48C320F15FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0312B1CC-366B-4E98-AA91-48C320F15FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0312B1CC-366B-4E98-AA91-48C320F15FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0312B1CC-366B-4E98-AA91-48C320F15FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {002E50F5-C63C-4016-B7B3-D509C70317C0}
+	EndGlobalSection
+EndGlobal

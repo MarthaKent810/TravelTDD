@@ -1,0 +1,15 @@
+C:\Users\WeCanCodeIT\source\repos\TravelTDD\TravelTDD\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\WeCanCodeIT\source\repos\TravelTDD\TravelTDD\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\WeCanCodeIT\source\repos\TravelTDD\TravelTDD\bin\Debug\nunit.engine.dll
+C:\Users\WeCanCodeIT\source\repos\TravelTDD\TravelTDD\bin\Debug\nunit.engine.api.dll
+C:\Users\WeCanCodeIT\source\repos\TravelTDD\TravelTDD\bin\Debug\Mono.Cecil.dll
+C:\Users\WeCanCodeIT\source\repos\TravelTDD\TravelTDD\bin\Debug\TravelTDD.dll
+C:\Users\WeCanCodeIT\source\repos\TravelTDD\TravelTDD\bin\Debug\TravelTDD.pdb
+C:\Users\WeCanCodeIT\source\repos\TravelTDD\TravelTDD\bin\Debug\nunit.framework.dll
+C:\Users\WeCanCodeIT\source\repos\TravelTDD\TravelTDD\bin\Debug\nunit.framework.pdb
+C:\Users\WeCanCodeIT\source\repos\TravelTDD\TravelTDD\bin\Debug\nunit.framework.xml
+C:\Users\WeCanCodeIT\source\repos\TravelTDD\TravelTDD\obj\Debug\TravelTDD.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\TravelTDD\TravelTDD\obj\Debug\TravelTDD.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\TravelTDD\TravelTDD\obj\Debug\TravelTDD.csproj.CopyComplete
+C:\Users\WeCanCodeIT\source\repos\TravelTDD\TravelTDD\obj\Debug\TravelTDD.dll
+C:\Users\WeCanCodeIT\source\repos\TravelTDD\TravelTDD\obj\Debug\TravelTDD.pdb
